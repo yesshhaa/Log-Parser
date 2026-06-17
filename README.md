@@ -111,6 +111,11 @@ All three flags can be combined.
   block both IPs, and review login policies to prevent repeat
   attempts.
 ```
+
+## Sample Output
+
+Running against the sample auth log, with the `--ai` flag enabled:
+
 ![Terminal output showing color-coded findings](image/1.png)
 ![Terminal output showing color-coded findings](image/2.png)
 
