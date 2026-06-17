@@ -1,0 +1,11 @@
+Jan 10 02:15:33 server sshd[1234]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jan 10 02:15:35 server sshd[1234]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jan 10 02:15:37 server sshd[1234]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jan 10 02:15:39 server sshd[1234]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jan 10 02:15:41 server sshd[1234]: Failed password for root from 192.168.1.45 port 22 ssh2
+Jan 10 02:15:43 server sshd[1234]: Accepted password for root from 192.168.1.45 port 22 ssh2
+Jan 10 02:15:50 server sshd[1235]: Failed password for admin from 10.0.0.5 port 22 ssh2
+Jan 10 02:15:52 server sshd[1235]: Failed password for john from 10.0.0.5 port 22 ssh2
+Jan 10 02:15:54 server sshd[1235]: Failed password for user from 10.0.0.5 port 22 ssh2
+Jan 10 09:30:00 server sshd[1236]: Accepted password for yesha from 10.0.0.20 port 22 ssh2
+Jan 10 14:00:00 server sshd[1237]: Invalid user hacker from 172.16.0.99 port 22 ssh2
